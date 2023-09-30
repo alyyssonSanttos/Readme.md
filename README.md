@@ -1,6 +1,6 @@
 # Readme.md
 # 💫 About Me:
-🔭 Atualmente estou procurando um trabalho<br>🤝 quem for mais experiente nas linguagens...manda umslv no Linkedin<br>🌱 Estou aprendendo HTML, CSS3, JavaScript, Node.js, React.js, Bootstrap  e etc.<br>💬 se precisarem de alguma ajuda estou por aqui<br>
+🔭 Atualmente estou procurando um trabalho<br>🤝 quem for mais experiente nas linguagens...manda um slv no Linkedin<br>🌱 Estou aprendendo HTML, CSS3, JavaScript, Node.js, React.js, Bootstrap  e etc.<br>💬 se precisarem de alguma ajuda estou por aqui<br>
 
 
 ## 🌐 Socials:
